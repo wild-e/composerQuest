@@ -1,0 +1,14 @@
+{
+    "name": "wild_e/composer-quest",
+    "description": "'Composer Quest'",
+    "authors": [
+        {
+            "name": "wild-e",
+            "email": "wild.emmanuelle@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\Wcs\\": "src/Wcs/"}
+    }
+}
